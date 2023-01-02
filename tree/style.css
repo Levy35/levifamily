@@ -2,7 +2,7 @@
 html{
     height: 100%;
 }
-body { background: url('/familyweb/images/body-bg.png') repeat; }/*body-bg.png*/
+body { background: url('images/body-bg.png') repeat; }/*body-bg.png*/
 * {
 	padding: 0px;
 	margin: 0px;
